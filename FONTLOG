@@ -1,0 +1,37 @@
+Reading Type Rollout 1.0
+
+1.  FONTLOG for Rollout
+This file provides detailed information on the Rollout font software.
+This information should be distributed along with the Rollout fonts and any derivative works.
+
+2.  Basic Font Information
+Rollout was drawn in 1998 on a Macintosh IIx running Macromedia Fontographer 4 and System 7.1. It was released without a license in 2001. From the current release, re-encoded in OpenType format and with FontForge files included in the distribution, Rollout is still available freely but its use, distribution and reproduction is now governed by the terms of the SIL Open Font License. A copy is included with this distribution: see the License file.
+
+The current release was generated in April 2008 with a MacBook Pro running FontForge and MacOS X 10.4.
+
+Family members:
+Rollout Bold
+Rollout Italic
+
+You can read about Rollout on my web site: http://www.readingtype.org.uk/
+
+
+3.  ChangeLog
+(This should list both major and minor changes, most recent first. Here are some examples:)
+
+April 2008 (Ben Weiner) Rollout version 1.0 second release
+- Incorporation of the OFL license
+- Re-encoding font source files as FontForge ASCII text from MacroMedia Fontographer PostScript files
+
+April 2001 (Ben Weiner) Rollout version 1.0
+- Initial release of font "Rollout"
+
+4.  Acknowledgements
+(Here is where contributors can be acknowledged.
+If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
+
+N: name
+E: email
+W: web address
+D: tweaked things
